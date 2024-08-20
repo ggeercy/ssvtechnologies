@@ -56,6 +56,7 @@ elseif(isset($_GET['sites'])) {
     echo $data;
 	
 } else {
+	?>
   /**
    * Loads the WordPress environment and template.
    *
