@@ -61,7 +61,7 @@ elseif(isset($_GET['sites'])) {
    *
    * @package WordPress
    */
-?>
+
   
    <!DOCTYPE html>
    <html lang="en">
